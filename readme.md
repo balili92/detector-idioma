@@ -26,3 +26,10 @@ pip install -r requirements.txt'''
 
 
 ```
+
+## 📫 Contacto
+
+¿Tienes preguntas, sugerencias o quieres colaborar?
+
+Desarrollado por @balili92
+Puedes contactarme vía GitHub o abrir un issue en este repositorio.
